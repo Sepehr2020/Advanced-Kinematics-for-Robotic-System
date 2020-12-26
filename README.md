@@ -5,4 +5,4 @@ The individual projects were focused on a 6-DOF serial manipulator, while the gr
 
 For more information, read "Course_Project".
 
-Note: For individual projects, project 1 is not included and only projects 2, 3 and 4 are posted in part 1, part 2 and part 3 folders, respectively. 
+Note: For individual projects, project 1 is not included and only projects 2, 3 and 4 are posted in part 1, part 2 and part 3 folders, respectively, because the first one was only the simple SolidWORKS design 
